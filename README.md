@@ -10,9 +10,39 @@ in other things i also have a keen intrest in video games both technically and d
 
 as with most of my projects they are done in iterations seprated from one another then brought together to interect as modules. forcing a modulor design and resuability within each iteration. though i have yet to finish a many of them, i do have a number of working prototypes and programs that i use to further reaserch and design on the next iterations.
 
+## Active Leanring:
+
 I'am curretly learning deep learning techniques and the pipline from maths to prototype training and deployment of custom models.
 
 I'am also currently engaged in learning netowrking for games among other game related aspects. 
+
+## Active Projects:
+
+_Mirror Image_: a co-operable card game first person shooter surival rouge like game. with emphisis on creating dynamic fun intellegnce that both suspensful and challegning. 
+
+_GAVIN_: A AI model biult from the ground up from scratch.
+## Working Programs 
+
+_GAVIN M1_: A gpt wrapper in experiment with compoenents around agent based application development. also experimienting with model prompt engeeneering and context relevance. 
+
+_toDo list app_: a school project that turned out to be quite useful in learning techniques applied in the the gpt wrapper.
+
+_plethor of standalone game systems_: from inventory systems, card mechanics biudlers, first person controls, and statemachine based deceision systems. 
+
+## Goals:
+
+my main goal is to biuld somthing memorable and generalizable. i am starting with games because i can apply the practical skills here while being able to stay motavated by seeing clear progress. 
+
+## Laungauges I have worked with:
+_* have a depth of knowledge_
+- pyhton*
+- java*
+- C#*
+- CSS
+- JS
+- HTML
+
+
 
 <!--
 **Leviathan-CE/Leviathan-CE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
