@@ -1,41 +1,41 @@
 ## Hello there 👋
 
 ### Introduction:  
-I am a creative indivudual with background in self taught digial art and illistration, in addtion to working on a degree in computer science and a minor in datas cience  and love to biudling things.   
+I am a creative individual with a background in self-taught digital art and illustration, in addition to working on a degree in computer science and a minor in data science,  and I love building things.   
 <img src="header.png" width="150" height="200">. 
 
 some of my work is as shown above. but here in this github place i do much more then art. i am keenly interested in intellegent systems and wisdom based systems coding for creative use and designing extensions to the human expiernce to allow better productivity. 
 
-in other things i also have a keen intrest in video games both technically and design, with again a focus on intellegnt systems 
+In other things, I also have a keen interest in video games, both technically and design, with again a focus on intelligent systems 
 
-as with most of my projects they are done in iterations seprated from one another then brought together to interect as modules. forcing a modulor design and resuability within each iteration. though i have yet to finish a many of them, i do have a number of working prototypes and programs that i use to further reaserch and design on the next iterations.
+As with most of my projects, they are done in iterations separated from one another, and then brought together to interact as modules. forcing a modular design and reusability within each iteration. Though I have yet to finish many of them, I do have a number of working prototypes and programs that I use to further research and design the next iterations.
 
-## Active Leanring:
+## Active Learning:
 
-I'am curretly learning deep learning techniques and the pipline from maths to prototype training and deployment of custom models.
+I'm currently learning deep learning techniques and the pipeline from maths to prototype training and deployment of custom models.
 
-I'am also currently engaged in learning netowrking for games among other game related aspects. 
+I'm also currently engaged in learning networking for games, among other game-related aspects. 
 
 ## Active Projects:
 
-_Mirror Image_: a co-operable card game first person shooter surival rouge like game. with emphisis on creating dynamic fun intellegnce that both suspensful and challegning. 
+_Mirror Image_: is a cooperative card game that is a first-person shooter survival rogue-like game. It emphasizes creating dynamic, fun, intelligent content that is both suspenseful and challenging. 
 
-_GAVIN_: A AI model biult from the ground up from scratch.
+_GAVIN_: An AI model built from the ground up from scratch.
 ## Working Programs 
 
-_GAVIN M1_: A gpt wrapper in experiment with compoenents around agent based application development. also experimienting with model prompt engeeneering and context relevance. 
+_GAVIN M1_: A GPT wrapper experimenting with components related to agent-based application development. It is also experimenting with model prompt engineering and context relevance. 
 
-_toDo list app_: a school project that turned out to be quite useful in learning techniques applied in the the gpt wrapper.
+_toDo list app_: a school project that turned out to be quite useful in learning techniques applied in the GPT wrapper.
 
-_plethor of standalone game systems_: from inventory systems, card mechanics biudlers, first person controls, and statemachine based deceision systems. 
+_plethora of standalone game systems_: from inventory systems, card mechanics builders, first-person controls, and statemachine-based decision systems. 
 
 ## Goals:
 
-my main goal is to biuld somthing memorable and generalizable. i am starting with games because i can apply the practical skills here while being able to stay motavated by seeing clear progress. 
+My main goal is to build something memorable and generalizable. I am starting with games because I can apply the practical skills here while staying motivated by seeing clear progress. 
 
-## Laungauges I have worked with:
+## Languages I have worked with:
 _* have a depth of knowledge_
-- pyhton*
+- Python*
 - java*
 - C#*
 - CSS
