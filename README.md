@@ -34,14 +34,16 @@ _plethora of standalone game systems_: from inventory systems, card mechanics bu
 My main goal is to build something memorable and generalizable. I am starting with games because I can apply the practical skills here while staying motivated by seeing clear progress. 
 
 ## Languages I have worked with:
-_* have a depth of knowledge_
+_* have a indepth of knowledge_
 - Python*
 - java*
 - C#*
 - CSS
 - JS
 - HTML
-
+- R
+- C
+- C++
 
 
 <!--
