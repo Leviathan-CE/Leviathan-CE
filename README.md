@@ -23,7 +23,7 @@ _Mirror Image_: is a cooperative card game that is a first-person shooter surviv
 _GAVIN_: An AI model built from the ground up from scratch.
 ## Working Programs 
 
-_GAVIN M1_: A GPT wrapper experimenting with components related to agent-based application development. It is also experimenting with model prompt engineering and context relevance. 
+_GAVIN M1_: A GPT wrapper experimenting with components related to agent-based application development. It also experiments with model prompt engineering and context relevance. has a localized database and encryption.
 
 _toDo list app_: a school project that turned out to be quite useful in learning techniques applied in the GPT wrapper.
 
